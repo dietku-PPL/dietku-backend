@@ -1,18 +1,28 @@
 # dietku-backend
 ### Installation
-``` npm install```
+```
+npm install
+```
 
 ### Create Database
-```npx sequelize db:create```
+```
+npx sequelize db:create
+```
 
 ### Migrate database
-```npx sequelize db:migrate```
+```
+npx sequelize db:migrate
+```
 
 ### Seeds into database
-```npx sequelize db:seed ```
+```
+npx sequelize db:seed
+```
 
 ### Running
-```npm run dev```
+```
+npm run dev
+```
 running at server ```http://localhost:3000```
 ## API Endpoints
 
